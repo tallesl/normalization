@@ -14,7 +14,7 @@ Normalizes text for search and such.
 
 ```javascript
 $ npm install normalization
-normalization@1.0.0 node_modules/normalization
+normalization@1.1.1 node_modules/normalization
 $ node
 > var normalize = require('normalization')
 undefined
